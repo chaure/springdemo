@@ -1,2 +1,2 @@
 # springdemo
-this is spring
+this is spring example
